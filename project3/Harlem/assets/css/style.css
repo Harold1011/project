@@ -1,0 +1,79 @@
+
+* {
+    
+}
+
+.cold3{display:inline-block;
+        width: 400px;
+        vertical-align: top;
+        }
+body {
+    background: url(https://cooperator.com/_data/ny/articles/7779_image1.jpg?w=793) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color: red;
+    font-size: 50px;
+}
+
+.brick {
+    border-radius: 25px;
+    background-image: url(https://www.dhresource.com/0x0s/f2-albu-g3-M00-F1-70-rBVaHVSv75-AeppOAAaQTMblXTE043.jpg/vinyl-custom-photography-backdrops-brick.jpg);
+    border: 5px solid blue;
+    padding: 25px;
+    margin: 7%;
+    color: white;
+    
+
+}
+
+iframe {
+    display: block;
+    width: 400px;
+    margin-bottom: 50px
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  
+}
+
+.navbar a {
+  float:none;
+  display:;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 6px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+
+.navbar a:hover {
+  background: #f1f1f1;
+  color: black;
+}
+
+.navbar a.active {
+  background-color: #7A2D60;
+  color: white;
+}
+
+.main {
+  padding: 16px;
+  margin-bottom: 39px;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    background-color: black;
+    color: aliceblue
+}

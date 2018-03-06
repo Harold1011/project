@@ -1,0 +1,92 @@
+* {
+    
+}
+body{ 
+        background: url(http://www.uptowncollective.com//wp-content/uploads/2014/07/harlem-2.jpg) no-repeat center fixed;
+            background-size: cover;
+}
+
+form{ 
+color: aliceblue
+
+
+
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+p {
+    font-family: 'Lobster', cursive;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+input:focus-within{
+    width: 15%;
+    border: 2px solid Blue;
+    border-radius: 4px;
+    background-color: bisque
+}
+
+textarea:focus-within {
+   
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid blue;
+    border-radius: 5px;
+    background-color: bisque;
+    font-size: 16px;
+    resize: none;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  
+
+}
+
+.navbar a {
+  float:none;
+  display:;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 6px;
+  text-decoration: none;
+  font-size: 20px;
+
+}
+
+.navbar a:hover {
+  background: #f1f1f1;
+  color: black;
+}
+
+.navbar a.active {
+  background-color: #7A2D60;
+  color: white;
+}
+
+.main {
+  padding: 16px;
+  margin-bottom: 39px;
+}
+
+.fa {
+  font-size: 40px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  color: aliceblue
+  
+}
+
+
