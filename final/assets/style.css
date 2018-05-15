@@ -1,0 +1,36 @@
+.jumbotron {
+    background-color: black !important;
+    
+}
+
+#video-background{
+      width: 100%!important;
+
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    color: aliceblue !important;
+    
+}
+
+h3{
+    font-family: 'lobster', cursive;
+    color: whitesmoke;
+    font-size: 50;
+    
+}
+
+body {
+    background: url(https://cooperator.com/_data/ny/articles/7779_image1.jpg?w=793) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+h2{
+    color: whitesmoke
+}
+
+p{
+    color: whitesmoke
+}
+
